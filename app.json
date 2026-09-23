@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Digital Library Universitas",
+    "slug": "digital-library-universitas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F6FA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kampus.digitallibrary"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
